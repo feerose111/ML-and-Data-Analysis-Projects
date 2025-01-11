@@ -40,12 +40,12 @@ The repository consists of the following Jupyter Notebooks:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/feerose111/ML-and-Data-Analysis-Projects.git
    ```
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd <repository-name>
+   cd ML-and-Data-Analysis-Projects
    ```
 
 3. **Install Dependencies**
